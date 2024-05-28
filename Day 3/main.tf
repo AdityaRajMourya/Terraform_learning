@@ -1,6 +1,4 @@
 
-
-
 module "resource_groups" {
   source = "/Users/jatinbhalla/Terraform_learning/Day 1/az_resourcegroup"
 
